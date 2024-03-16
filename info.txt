@@ -3,3 +3,4 @@ Okul: Bahçeşehir Üniversitesi/Bilgisayar Mühendisliği
 Yaşadığı Şehir: Muğla/Marmaris
 Yaş:26
 email:ahmetyasinatakan@gmail.com
+linkedin: https://www.linkedin.com/in/ahmet-yasin-atakan-3b8a9a219/
